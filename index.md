@@ -1,12 +1,12 @@
 # Welcome to Qihan Jing's CV
 
-```markdown
-
-## Eucation
-Currently study in University of Toronto, Rotman Commerce as a last-year student
-Pursuing Finance and Economics Specialist, Economics Major and Statistics Minor
-Graduation: will graduate in 2021 (finish in 3 years) with Bachelor of Commerce (BCOM)
-
+## Education
+```
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x]Currently study in University of Toronto, Rotman Commerce as a last-year student
+- [x]Pursuing Finance and Economics Specialist, Economics Major and Statistics Minor
+- [x]Graduation: will graduate in 2021 (finish in 3 years) with Bachelor of Commerce (BCOM)
+```
 ## Industry Certifications
 Will take CFA level I exam in February 2021. 
 
@@ -40,7 +40,6 @@ Volunteered at Baihe Middle School
 Quantitative and computational proficiency in courses that related to computer programing, linear algebra, probability, statistics, econometrics, macro & microeconomics and calculus.
 Tools: Capital IQ, Wind, Excel Solver, Python, R and Stata
 Finish undergraduate program (Rotman Commerce) in three years with course overload (7 course each term), which shows strong multi-tasking and fast-learning skills
-
 
 
 
