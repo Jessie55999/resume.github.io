@@ -5,19 +5,29 @@
 ```
 
 ## Education
-  ### Univerisity
+```markdown
+:rabbit:
+```
+  ### University
 * Currently study in __University of Toronto__, Rotman Commerce as a last-year student
 * Pursuing Finance and Economics Specialist, Economics Major and Statistics Minor
 * Graduation: will graduate in 2021 (finish in 3 years) with Bachelor of Commerce (BCOM)
+
   ### High School
 * Graduated from Beijing No.4 High School
 
 
 ## Industry Certifications
+```markdown
+:rabbit2:
+```
 * Will take CFA level I exam in February 2021. 
 
 
 ## Work Experience
+```markdown
+:dove:
+```
    ### 2019 June
 * Completed an internship at Z-Park Shunshi (Beijing) Investment Management Co.,LTD. and assisted in raising Real Estate Public Fund.
   - *Finished a market investigation report independently on a company and its industry (joint work industry) using SWOT method*
@@ -31,6 +41,9 @@
 
 
 ## Academic Experience
+```markdown
+:icecream:
+```
 * CGPA: 3.93 and received University of Toronto Scholar, CFA Institute Scholarship, The Banker’s Scholarship in Economics (No1. in ECO208), etc.
 ####  2020 November
 * Analyzed the performances of Starbucks, McDonalds, AstraZeneca and Pfizer with Financial reports from 2017 to 2019, compared the similarity & differences and took the impact from COVID-19 into consideration.  
@@ -41,6 +54,9 @@
   
   
 ## Extra-Curricular and Leadership
+```markdown
+:coffee:
+```
 * Acted as the group leader in most of group projects, for example, the study in “Chinese 996 working hour system” with Organizational Behavior related knowledge in order to give suggestions on how to motivate employees better.
 * Participated in Drama Festival as general director and screenwriter in high school
  -Recomposed the script, selected actors, coordinated on promotion activities, etc.
@@ -49,6 +65,9 @@
  
  
 ## Skills
+```markdown
+:gem:
+```
 * Quantitative and computational proficiency in courses that related to computer programing, linear algebra, probability, statistics, econometrics, macro & microeconomics and calculus.
 * Tools: Capital IQ, Wind, Excel Solver, Python, R and Stata
 * Finish undergraduate program (Rotman Commerce) in three years with course overload (7 course each term), which shows strong multi-tasking and fast-learning skills
@@ -57,7 +76,8 @@
 
 
 
+
 ###### Support
-You can use the [editor on GitHub](https://github.com/jingqihan/resume.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###### You can use the [editor on GitHub](https://github.com/jingqihan/resume.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###### Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
