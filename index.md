@@ -1,6 +1,5 @@
 # Welcome to Qihan Jing's CV
 [Email](qihan.jing@mail.utoronto.ca)
-[Tel](+1 6478609597)
 
 
 ## Education  :rabbit:
