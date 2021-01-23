@@ -2,7 +2,7 @@
 [Email](https://outlook.office.com/qihan.jing@mail.utoronto.ca)
 
 
-## Education  :rabbit:
+## Education  
 
 ### University
 * Currently study in __University of Toronto__, Rotman Commerce as a last-year student
@@ -13,12 +13,11 @@
 * Graduated from Beijing No.4 High School
 
 
-## Industry Certifications  :rabbit2:
-
+## Industry Certifications  
 * Will take CFA level I exam in February 2021. 
 
 
-## Work Experience  :dove:
+## Work Experience 
 
 ### 2019 June
 * Completed an internship at Z-Park Shunshi (Beijing) Investment Management Co.,LTD. and assisted in raising Real Estate Public Fund.
@@ -32,7 +31,7 @@
   - *Helped with the official report, especially in the Regulatory Compliance segment*
 
 
-## Academic Experience  :icecream:
+## Academic Experience  
 
 * CGPA: 3.93 and received University of Toronto Scholar, CFA Institute Scholarship, The Banker’s Scholarship in Economics (No1. in ECO208), etc.
 ###  2020 November
@@ -43,7 +42,7 @@
   - *Screened with Capital IQ and Simulated trading on RPM*
   
   
-## Extra-Curricular and Leadership  :coffee:
+## Extra-Curricular and Leadership  
 
 * Acted as the group leader in most of group projects, for example, the study in “Chinese 996 working hour system” with Organizational Behavior related knowledge in order to give suggestions on how to motivate employees better.
 * Participated in Drama Festival as general director and screenwriter in high school
@@ -52,7 +51,7 @@
   - *Helped students from disadvantaged families to overcome temporary hardship* 
  
  
-## Skills  :gem:
+## Skills  
 
 * Quantitative and computational proficiency in courses that related to computer programing, linear algebra, probability, statistics, econometrics, macro & microeconomics and calculus.
 * Tools: Capital IQ, Wind, Excel Solver, Python, R and Stata
