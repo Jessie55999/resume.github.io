@@ -1,5 +1,5 @@
 # Welcome to Qihan Jing's CV
-[Email](qihan.jing@mail.utoronto.ca)
+[Email](https://outlook.office.com/qihan.jing@mail.utoronto.ca)
 
 
 ## Education  
