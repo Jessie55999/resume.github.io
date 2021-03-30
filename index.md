@@ -58,7 +58,7 @@
 * Finish undergraduate program (Rotman Commerce) in three years with course overload (7 course each term), which shows strong multi-tasking and fast-learning skills
 
 
-## Thanks for your time and best wishes!
+## Thanks for your time!
 
 
 
